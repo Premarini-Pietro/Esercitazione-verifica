@@ -5,4 +5,4 @@ num_4 = input("Numero-4:")
 num_5 = input("Numero-5:")
 Lista = [num_1, num_2, num_3, num_4, num_5]
 Lista.reverse()
-print("La lista è " , Lista)
+print("La lista è " , Lista) #

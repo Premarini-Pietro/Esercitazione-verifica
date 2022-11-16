@@ -8,4 +8,4 @@ Lista.reverse()
 for x in Lista:
     q = int(x/2)
     if q*2 == x:
-        print(x)
+        print(x) #

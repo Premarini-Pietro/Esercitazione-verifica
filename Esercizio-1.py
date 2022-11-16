@@ -11,4 +11,4 @@ numero_4 = input("Numero-4:")
 print("Il numero selezionato è " + numero_4)
 
 numero_5 = input("Numero-5:")
-print("Il numero selezionato è " + numero_5)
+print("Il numero selezionato è " + numero_5) #
