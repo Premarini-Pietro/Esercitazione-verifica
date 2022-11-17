@@ -1,17 +1,9 @@
-def pari(y):
-    check = int(y/2)
-    if check * 2 == y: return True
-    else: return False
-
-
-
-
-k = int(input("Inseirisci un numero: "))
-
-ris = pari(k)
-
-if ris == True: print("pari")
-else: print ("dispari")
-
-
-
+k = int(input("Inserisci un numero: "))
+def primo(k):
+    for y in range (2, k):
+        check = int(k/y)
+        if check * y == k:
+            return False
+            if 
+    return True
+ 
