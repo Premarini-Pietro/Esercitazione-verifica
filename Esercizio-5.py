@@ -1,4 +1,4 @@
-k = int(input("Inserisci un numero: "))
+k = int(input("Inserisci un numero: "))     #Non finito
 def primo(k):
     for y in range (2, k):
         check = int(k/y)
